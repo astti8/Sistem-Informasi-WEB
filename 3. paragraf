@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title>Tutorial Paragraf di HTML</title>
+    </head>
+    <body>
+        <p>Ini adalah sebuah paragraf yang berisi beberapa kalimat.
+        Saya tita, mahasiswa sistem informasi yang sedang belajar HTML.</p>
+        <p>Paragraf adalah kumpulan dari beberapa kalimat yang saling
+        mendukung. Punya ide pokok sebagai dasar dari paragraf itu sendiri.</p>
+    </body>
+</html>
